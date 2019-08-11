@@ -27,8 +27,7 @@ public class Member {
 	public String getEmail() {
 		return email;
 	}
-	
-	//To do: password -> hashed password
+
 	public String getPassword() {
 		return password;
 	}
